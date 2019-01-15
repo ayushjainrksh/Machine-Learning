@@ -10,3 +10,4 @@ Includes:
 5. Reinforcement Learning
 6. Natural Language Processing
 7. Artificial Neural Network
+8. Convolutional Neural Network
